@@ -44,4 +44,5 @@ function checkSecond(sec) {
 
 function resetTimer() {
     document.getElementById("timer").innerHTML = "0:00";
+     
 }

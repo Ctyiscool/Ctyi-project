@@ -35,25 +35,21 @@ height: 800px;
 width: 100%;
 
 }
-.left {
-height: 150%;
-width: 20%;
-background-color: rgb(0, 0, 0); 
-float: left;
-}
+
 .main {
 height: 150%;
-width: 80%;
+width: 100%;
 background-image: url('bearinamug.gif');
 background-size: 100%;
 float: right;
-font-size: 80px;
+font-size: 5px;
 text-align: center;
-color: rgb(255, 0, 149);
+color: rgb(255, 0, 0);
 text-shadow: 2px 3px rgb(0, 255, 0)
 
 
 }
 .timerText {
-    padding-top: 400px;
+    padding-top: 250px;
+    font-size: 70px;
 }
